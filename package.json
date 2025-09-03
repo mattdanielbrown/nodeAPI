@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zhaobe/nodeAPI#readme",
   "dependencies": {
-    "body-parser": "^1.16.0",
+    "body-parser": "^2.2.0",
     "express": "^4.14.1",
     "jsonwebtoken": "^7.2.1",
     "mongoose": "^4.8.0",
